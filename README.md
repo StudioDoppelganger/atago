@@ -1,7 +1,7 @@
 # atago
 <p align="center">
     <a href="https://raw.githubusercontent.com/StudioDoppelganger/atago/master/LICENSE" alt="The Unlicense">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
+        <img src="https://img.shields.io/badge/license-Unlicense-blue.svg"/></a>
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
